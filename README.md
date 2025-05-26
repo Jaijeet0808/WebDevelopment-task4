@@ -27,7 +27,7 @@ task4/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-task4.git
+  https://github.com/Jaijeet0808/WebDevelopment-task4
 
 2. Navigate to the project directory:
 cd portfolio-task4
